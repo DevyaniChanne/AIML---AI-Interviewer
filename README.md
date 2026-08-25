@@ -10,14 +10,14 @@ This project uses 3 AI agents working together to create a complete interview ex
 
 🔄 Workflow
            🎤 Interviewer<br>
-                 │
-                 ▼
+                 │<br>
+                 ▼<br>
           👨‍💻 Interviewee<br>
-                 │
-                 ▼
+                 │<br>
+                 ▼<br>
          🧑‍🏫 Career Coach<br>
-                 │
-                 ▼
+                 │<br>
+                 ▼<br>
        📊 Feedback & Improvement<br>
 
 
