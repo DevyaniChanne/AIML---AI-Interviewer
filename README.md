@@ -20,4 +20,4 @@ Python | AutoGen | LLMs | OpenAI/Gemini API | AsyncIO
 
 Planning to add resume-based questions
 
-**Built while exploring Generative AI, LLMs & Multi-Agent Systems **🤖
+<b>Built while exploring Generative AI, LLMs & Multi-Agent Systems</b>🤖
