@@ -4,8 +4,8 @@ An AI-powered mock interview project built using Python, AutoGen and LLMs.
 
 This project uses 3 AI agents working together to create a complete interview experience:
 
-🎤 Interviewer – asks interview questions and conducts the interview.
-👨‍💻 Interviewee – answers the questions like a real candidate.
+🎤 Interviewer – asks interview questions and conducts the interview.<br>
+👨‍💻 Interviewee – answers the questions like a real candidate.<br>
 🧑‍🏫 Career Coach – reviews the answers, gives feedback, and suggests better ways to answer.
 
 🔄 How it works
