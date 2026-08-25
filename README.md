@@ -9,16 +9,16 @@ This project uses 3 AI agents working together to create a complete interview ex
 🧑‍🏫 Career Coach – reviews the answers, gives feedback, and suggests better ways to answer.<br>
 
 🔄 Workflow
-           🎤 Interviewer
+           🎤 Interviewer<br>
                  │
                  ▼
-          👨‍💻 Interviewee
+          👨‍💻 Interviewee<br>
                  │
                  ▼
-         🧑‍🏫 Career Coach
+         🧑‍🏫 Career Coach<br>
                  │
                  ▼
-       📊 Feedback & Improvement
+       📊 Feedback & Improvement<br>
 
 
 
