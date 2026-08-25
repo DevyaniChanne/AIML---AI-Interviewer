@@ -6,10 +6,21 @@ This project uses 3 AI agents working together to create a complete interview ex
 
 🎤 Interviewer – asks interview questions and conducts the interview.<br>
 👨‍💻 Interviewee – answers the questions like a real candidate.<br>
-🧑‍🏫 Career Coach – reviews the answers, gives feedback, and suggests better ways to answer.
+🧑‍🏫 Career Coach – reviews the answers, gives feedback, and suggests better ways to answer.<br>
 
-🔄 How it works
-Interviewer → Interviewee → Career Coach → Feedback
+🔄 Workflow
+           🎤 Interviewer
+                 │
+                 ▼
+          👨‍💻 Interviewee
+                 │
+                 ▼
+         🧑‍🏫 Career Coach
+                 │
+                 ▼
+       📊 Feedback & Improvement
+
+
 
 The main goal is to help candidates practice interviews, improve their answers, and get instant AI-powered feedback.
 
